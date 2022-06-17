@@ -1,0 +1,48 @@
+.about-page-container h1 {
+  margin-bottom: 15px;
+  margin-top: 15px;
+}
+
+.normal-text {
+  margin: 15px;
+}
+
+.about-page-container {
+  display: flex;
+  justify-content: space-between;
+  margin: auto;
+  margin-top: 50px;
+  width: 1000px;
+}
+
+.about-container {
+  align-items: center;
+  background-color: #d9d9d9;
+  border-radius: 15px;
+  display: flex;
+  flex-direction: column;
+  height: 276px;
+  justify-content: space-between;
+  margin: auto;
+  text-align: center;
+  width: 400px;
+}
+
+.rules-container {
+  align-items: center;
+  background-color: #d9d9d9;
+  border-radius: 15px;
+  display: flex;
+  flex-direction: column;
+  margin: auto;
+  text-align: center;
+  width: 450px;
+}
+
+.rules-text {
+  margin: 5px;
+}
+
+.rules-text-special {
+  font-weight: 700;
+}
